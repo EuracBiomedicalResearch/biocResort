@@ -1,0 +1,10 @@
+The ini file assumes:
+1) There are two internal qc samples with ids 1015687538 and 1015687523
+2) There are three wells on the plate with QC2 from Biocrates (id 721046)
+
+And that you want to do the following:
+1) Do the usual starting sequence of Biocrates up to the final calibration injection. 
+2) Inject once from all QC samples on the plate: once for QC1, once from all three wells for QC2 and once for QC3 and once from thw two internal QCs
+3) Inject once from both internal QC samples
+4) Then between every 20 sample injections you want to inject QC1 and the two internal QC samples
+and between every 40 sample injections you also want to inject once of each of the wells for QC2
