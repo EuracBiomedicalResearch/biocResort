@@ -12,4 +12,4 @@ For the sequence between sample injections you have control over how many sample
 
 Both instances take into account that you might have the same sample ID in more than one well on your plate and you have options to control what happens in this case.
 
-If all you want is the executable then go to the [releases](/releases) and download the latest zipped binary file.
+If all you want is the executable then go to the [releases](https://github.com/EuracBiomedicalResearch/biocResort/releases/) and download the latest zipped binary file.
