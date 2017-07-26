@@ -1,6 +1,6 @@
 # biocResort LC-MS/MS helper
 
-## Note: if all you want is the executable then go to the [releases](https://github.com/EuracBiomedicalResearch/biocResort/releases/) and download the latest zipped binary file.
+## Note: if all you want is the executable and related text files then go to the [releases](https://github.com/EuracBiomedicalResearch/biocResort/releases/) and download the latest zipped binary file.
 
 Biocrates allows for multiple injections per well in their workflow but puts them all right after each other in the injection sequence. This is not so ideal when wanting to inject QC samples between every x injections of samples. This script automates that resorting for you with a number of options that you can control via a configuration file (resort.ini)
 
